@@ -1,7 +1,9 @@
 # record-results
 record the program result in pycharm
 代码段
+
 import sys
+
 class Logger(object):
     def __init__(self, fileN="Default.log"):
         self.terminal = sys.stdout
