@@ -2,7 +2,7 @@
 
 record the program result in pycharm
 
-代码段
+代码段，放在程序运行之前
 
 import sys
 class Logger(object):
